@@ -23,6 +23,7 @@ module.exports = {
                     skipEmptyLines: true
                 }
             }
+            
         ]
     },
     plugins: [HtmlWebpackPluginConfig]
