@@ -1,0 +1,18 @@
+input[type="range"] {
+    writing-mode: bt-lr;
+    -webkit-appearance: slider-vertical;
+}
+
+#slider {
+    margin-top: 2vh;
+    position: absolute;
+    height: 80vh;
+}
+span#range-value{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    margin-left: 2vw;
+    margin-top: 41vh;
+}
